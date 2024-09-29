@@ -44,7 +44,7 @@ Create a new project and obtain the Firebase configuration (API key, project ID,
 Create a .env file in the root of the project and add your Firebase config:
 
 const firebaseConfig = {
-  apiKey: "AIzaSyDaBRb4kvKkbyzonhe4OgMusvguc0asuaI",
+  apiKey: "AIzaSyDaBRb4kvKkbyzonhe4OgMusvguxxxxxx",
   authDomain: "lmsproject-1f5c0.firebaseapp.com",
   projectId: "lmsproject-1f5c0",
   storageBucket: "lmsproject-1f5c0.appspot.com",
